@@ -10,3 +10,10 @@ library(reactable)
 reactable(infert)
 ```
 
+```{r}
+plot(women)
+
+```
+
+
+
